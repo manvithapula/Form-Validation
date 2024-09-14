@@ -66,7 +66,7 @@ function validConfirmPassword() {
 function validPhoneNumber() {
     var phoneNumber = document.getElementById("PhoneNumber").value;
     var errPhoneNumber = document.getElementById("errPhoneNumber");
-    var regEx = /^\d{10}$/;
+    var regEx = /^[6789][\d]{9}$/;
     if (phoneNumber.trim() === "") {
         errPhoneNumber.innerHTML = "Please enter your phone number";
     } else if (!regEx.test(phoneNumber)) {
