@@ -23,6 +23,10 @@ Gender: Must be selected from the dropdown options.
 4. If any information is invalid, an error message will be displayed next to the respective field in red.
 5. Once all validations are passed, the form will alert the user that the "User registered".
 
+## Screenshots
+
+
+
 
 ## Technologies Used
 
