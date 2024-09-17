@@ -6,14 +6,21 @@ This project demonstrates a simple HTML form with client-side validation using J
 
 ## Validation Conditions
 
-Username: Required (cannot be empty).
-Email: Must be a valid email address.
-Password: Must be at least 6 characters long.
-Confirm Password: Must match the password.
-Phone Number: Must be exactly 10 digits.
-Address: Required (cannot be empty).
-Birthdate: Required (cannot be empty).
-Gender: Must be selected from the dropdown options.
+Username: Required (cannot be empty)
+
+Email: Must be a valid email address
+
+Password: Must be at least 6 characters long
+
+Confirm Password: Must match the password
+
+Phone Number: Must be exactly 10 digits and start with 6,7,8,9
+
+Address: Required (cannot be empty)
+
+Birthdate: Format YYYY-MM-DD
+
+Gender: Must be selected from the dropdown options
 
 ## Usage
 
@@ -26,7 +33,9 @@ Gender: Must be selected from the dropdown options.
 ## Technologies Used
 
 - **HTML**: For the structure of the form.
+- 
 - **CSS (Inline)**: For simple styling, including a black box outline around the form.
+- 
 - **JavaScript**: For client-side form validation.
 
 ## Screenshots
