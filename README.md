@@ -23,13 +23,13 @@ Gender: Must be selected from the dropdown options.
 4. If any information is invalid, an error message will be displayed next to the respective field in red.
 5. Once all validations are passed, the form will alert the user that the "User registered".
 
-## Screenshots
-
-
-
-
 ## Technologies Used
 
 - **HTML**: For the structure of the form.
 - **CSS (Inline)**: For simple styling, including a black box outline around the form.
 - **JavaScript**: For client-side form validation.
+
+## Screenshots
+![Screenshot 2024-09-13 180317](https://github.com/user-attachments/assets/3b0406b5-c852-4111-8c29-a23db780cefa)
+![Screenshot 2024-09-13 180255](https://github.com/user-attachments/assets/a925669e-a4f5-49ce-b29d-e63b8f5e47ba)
+![Screenshot 2024-09-13 180333](https://github.com/user-attachments/assets/20c97179-af14-46a1-82d0-ff8ec806dde9)
